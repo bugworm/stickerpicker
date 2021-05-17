@@ -1,6 +1,7 @@
 {
   "packs": [
-    "PavterPack.json"
+    "PavterPack.json",
+    "custom.json"
   ],
   "homeserver_url": "https://matrix.bugworm.me"
 }
